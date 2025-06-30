@@ -5,7 +5,7 @@
 ## 📑 Índice
 
 - [📌 Descrição do Desafio](#-descrição-do-desafio)
-- [🌧️ Escolha do Tema: O Desafio das Chuvas Urbanas](#-escolha-do-tema)
+- [🌧️ Escolha do Tema: O Desafio das Chuvas Urbanas](#-escolha-do-tema-o-desafio-das-chuvas-urbanas)
 - [🌐 Solução Proposta: Storm Tracker](#-solução-proposta-storm-tracker)
   - [👥 Funcionalidades para a População](#-funcionalidades-para-a-população)
   - [🏛️ Funcionalidades para Autoridades](#-funcionalidades-para-autoridades)
