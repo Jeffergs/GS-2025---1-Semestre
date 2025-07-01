@@ -108,5 +108,5 @@ O **Storm Tracker** é uma plataforma web projetada para conectar cidadãos, ór
 
 ## 🧑‍🏭 Minhas Contribuições
 
-Colaborei na **criação da ideia** do projeto, junto com suas **funcionalidades**. Também desenvolvi a **modelagem de dados relacional** 
+Colaborei na **criação da ideia** do projeto, junto com suas **funcionalidades**. Também desenvolvi a **modelagem de dados relacional.** 
 
